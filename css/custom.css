@@ -19,3 +19,29 @@ iframe {
 .contact-icon { 
 	display: inline;
 }
+
+.breadcrumb {
+	margin: 30px 15px;
+	position: absolute;
+	bottom: 0;
+	display: block;
+}
+
+.content {
+
+}
+
+.header {
+    min-height: 50vh;
+    margin-bottom: 30px;
+    background-image: url(../img/header.jpg);
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;  
+}
+
+.active a {
+	color: red;
+}
