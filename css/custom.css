@@ -1,5 +1,5 @@
 .carousel-caption { 
-	top: 100px;
+    bottom: 20vmin;
 }
 
 .img-kris img {
@@ -87,4 +87,8 @@ footer {
   background-color: #f05f40;
   text-decoration: none;
   outline: 0;
+}
+
+.header-content-inner h1 {
+    font-size: 7vmin;
 }
