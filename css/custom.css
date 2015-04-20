@@ -92,3 +92,7 @@ footer {
 .header-content-inner h1 {
     font-size: 7vmin;
 }
+
+h1 {
+	margin: 15px 0;
+}
