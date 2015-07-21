@@ -1,5 +1,11 @@
 .carousel-caption { 
-    bottom: 20vmin;
+    top: 50%;
+    transform: translateY(-50%);
+    bottom: inherit;
+}
+
+h2 {
+    text-align: center;
 }
 
 .img-kris img {
@@ -32,7 +38,7 @@ iframe {
 }
 
 .header {
-    min-height: 50vh;
+    min-height: 500px;
     margin-bottom: 30px;
     background-image: url(../img/header.jpg);
     background-position: center;
