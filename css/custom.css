@@ -39,7 +39,6 @@ iframe {
 
 .header {
     min-height: 500px;
-    margin-bottom: 30px;
     background-image: url(../img/header.jpg);
     background-position: center;
     -webkit-background-size: cover;
@@ -68,6 +67,10 @@ body {
 
 .carousel-inner {
     height: 100%;
+}
+
+.main {
+    padding: 50px 0;
 }
 
 /* Background images are set within the HTML using inline CSS, not here */
