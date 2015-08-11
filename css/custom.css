@@ -4,7 +4,7 @@
     bottom: inherit;
 }
 
-h2 {
+h1, h2 {
     text-align: center;
 }
 
@@ -86,7 +86,7 @@ footer {
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
   color: #fff;
-  background-color: #f05f40;
+  /*background-color: #f05f40;*/
   text-decoration: none;
   outline: 0;
 }
